@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/wysiwyg826/webpack-vue2.0#readme",
   "dependencies": {
-    "vue": "^2.0.1",
+    "vue": "^2.1.4",
     "vue-resource": "^1.0.3",
-    "vue-router": "^2.0.0",
+    "vue-router": "^2.1.1",
     "vuex": "^2.0.0"
   },
   "devDependencies": {
